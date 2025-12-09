@@ -8,6 +8,10 @@ num1 = int(first)
 num2 = int(second)
 
 result = num1 + num2
+sub_result = num1 - num2
 
 printf("sum:", result)
+printf("different:", sub_result)
+
+
 
