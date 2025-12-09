@@ -9,9 +9,9 @@ num2 = int(second)
 
 result = num1 + num2
 sub_result = num1 - num2
-
-printf("sum:", result)
-printf("different:", sub_result)
-
+mul_result = num1 * num2
+print("sum:", result)
+print("different:", sub_result)
+print("product:", mul_result)
 
 
